@@ -1,0 +1,1 @@
+Não utilizar pipes para fazer oderby nem filtros em arrays. Fazer isso sempre em métodos.

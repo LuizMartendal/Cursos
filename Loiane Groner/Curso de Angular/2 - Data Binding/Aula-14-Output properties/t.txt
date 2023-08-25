@@ -1,0 +1,4 @@
+Componente customizado
+
+Objetivo: disparar um evento "mudou" toda vez que o usuário clicar nos botões de + ou -;
+Evento recebe novo valor do input.

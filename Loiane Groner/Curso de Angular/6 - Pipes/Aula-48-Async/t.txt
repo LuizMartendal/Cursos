@@ -1,0 +1,2 @@
+Serve para que eu consiga fazer a saída de um valor no template, mesmo que o valor seja atribuido a esse atributo demore um pouco .
+ É muito útil quando precisamos buscar valores no servidor. Para trabalhar com isso podemos usar Promise e fazer um setTimeout ou Observable com um Interval

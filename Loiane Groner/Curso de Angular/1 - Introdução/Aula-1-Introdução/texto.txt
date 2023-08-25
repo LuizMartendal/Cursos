@@ -1,0 +1,41 @@
+Introdução
+Compomentes e Templates
+Data biding
+Diretivas
+Serviços
+Formulários
+Roteamento
+Integração com servidor
+CRUD Mestre-Detalhe
+
+Requisitos:
+HTML/CSS/JS
+
+https://angular.io
+
+Parceria Google + Microsoft
+
+Open Source (código no Github)
+
+Não é a continuação da versão 1 - foi reescrito
+
+
+Componentes - Diretivas - Roteamento - Serviços - Template - Metadata - Databiding - Injeção Dependência
+
+Componente {}
+
+Encapsula:
+	Template
+	Metadata: processamento das classes
+	Dado a ser mostrado na tela (Data Biding)
+	Comportamento da VIEW
+
+Componente -> Serviço(Service) -> Backend 
+
+SPA (Single page application) Aplicação de uma página
+
+Router -> Responsável pela navegação
+
+Diretiva -> Responsável por modificar elementos DOM e/ou seu comportamento
+
+<input type="text" autoGrow>

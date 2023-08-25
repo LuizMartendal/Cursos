@@ -1,0 +1,7 @@
+ng new primeiro-projeto
+
+ng serve
+
+angular.io para pesquisar
+
+ng g c meu-primeiro2

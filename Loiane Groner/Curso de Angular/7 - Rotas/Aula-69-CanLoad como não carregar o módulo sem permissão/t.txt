@@ -1,0 +1,1 @@
+Usamos o canLoad como prevenção. Ao recarregar uma página você perde o acesso aos conteúdos, mas, se procurar na aba 'network' podemos encontrar o nosso arquivo sendo executado mesmo sem login.

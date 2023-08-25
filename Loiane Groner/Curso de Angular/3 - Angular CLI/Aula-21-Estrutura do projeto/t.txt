@@ -1,0 +1,21 @@
+Cria toda a estrutura do projeto 
+Gera páginas HTML inicial, arquivos Typescript iniciais, arquivos CSS e arquivos de testes unitários 
+Cria aquivo package .json com todas as dependências do Angular 2
+Instala todas as dependências do node (npm install) 
+Configura o Karma para executar os testes unitários com Jasmine
+Configura Protractor para executar os testes end-to-end (E2E) 
+Inicializa um repositório git no projeto e faz o commit inicial 
+Cria todos os arquivos necessários para fazer build aplicação para produção
+
+config - diretório que contém configuração para deploy/build e teste.
+dist - diretório onde é gerado o build da aplicação. Ignorado pelo git 
+e2e - diretório que contém os scripts para testes end-to-end 
+node_modules - diretório que contém os pacotes npm da app (package.json). Também ignorado pelo git.
+public - diretório genérico que contém um arquivo .npmignore
+src - diretório do código fonte da aplicação. Contém código typescript/javascript, CSS, imagens e templates HTML.
+angular-cli.json - arquivo que contém informações sobre o projeto build de produção, como nome do projeto, config de onde encontrar os arquivos fontes da app, config de testes etc.
+tslint.json - arquivo que contém configurações para fazer lint da app.
+
+dependencies: dependências necessárias para executar a aplicação.
+
+devDependencies: dependências necessárias para desenvolver a aplicação (não necessárias após o build de produção)

@@ -1,0 +1,40 @@
+SpringBoot
+
+Temas abordados:
+	Spring Framework;
+	Core container;
+	Injeção de dependência;
+	Inversão de controle;
+	Beans;
+	SpringBoot;
+
+Definições teóricas:
+	O Spring Framework é divido em 7 grupos:
+		Data Access / Integration => Transações com banco de dados
+		WEB => Construir aplicações WEB
+		AOP => Programação orientada a aspectos
+		Aspects
+		Instrumentation
+		Messaging
+		Core container => É o principal porque dentro do dele temos a inversão de controle (IoC)
+			Inversão de Controle (IoC) é um padrão de projeto, em que um objeto apenas declara suas dependências sem cria-las e delega a tarefa de construir tais dependências a um Container IoC (Core Container).
+			Injeção de Dependência é a implementação utilizada pelo Spring Framework de aplicar a Inversão de Controle quando necessário
+			Bean é um objeto que é instanciado, montado e gerenciado por um container do Spring através da Inversão de Controle e Injeção de Dependências
+				Exemplos de Esteriótipos do Spring: @Component, @Service, @Repository, @Controler
+		Test
+
+SpringBoot:
+	SpringBoot = Spring Framework + Servidor embutido - XML <bean> Configuration ou @Configuration
+
+
+Primeiro projeto:
+	Parking Control API:
+		Vamos usar:
+			Spring Boot;
+			Spring MVC;
+			Spring Data JPA;
+			Spring Validation;
+		Passo 1: start.spring.io
+			Escolher o projeto, linguagem, versão do spring, nome do projeto e dependências
+			
+		

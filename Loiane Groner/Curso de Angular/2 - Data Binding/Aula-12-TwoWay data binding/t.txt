@@ -1,0 +1,2 @@
+Valor do Template para o Componente e vice-versa
+Usa-se binding de eventos + propriedades

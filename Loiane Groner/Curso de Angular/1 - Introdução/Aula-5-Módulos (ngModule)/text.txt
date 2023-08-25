@@ -1,0 +1,3 @@
+Para criar um módulo no angular cli 
+
+ng g m cursos

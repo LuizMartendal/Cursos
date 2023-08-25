@@ -1,0 +1,9 @@
+Usando serviço de hosting do FireBase
+
+firebase.google.com
+
+npm install -g firebase-tools
+
+firebase login
+
+firebase init

@@ -1,0 +1,21 @@
+Alguns tópicos que vamos ver:
+
+    * Consumir API REST
+    * HTTP GET
+    * HTTP POST
+    * HTTP PUT
+    * HTTP DELETE
+    * Serviço genérico de CRUD REST
+    * Pipe Async
+    * Cachear dados localmente 
+    * Unsubscribe automático
+    * Boas práticas RxJS
+    * Gerenciar erros
+    * Parâmetros GET
+    * Header do Request
+    * Interceptors
+    * Upload Arquivo
+    * Serviço de busca/pesquisa
+
+    Novo projeto
+        ng new nome-projeto --routing --style=sccs -S

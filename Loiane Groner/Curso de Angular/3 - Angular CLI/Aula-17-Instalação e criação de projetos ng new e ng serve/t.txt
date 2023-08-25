@@ -1,0 +1,9 @@
+npm install -g angular-cli
+
+criar projeto:      ng new NomeProjeto
+executar            ng serve
+escolher porta e live-reload port:      ng serve --port 0000 --live-reload-port 00000
+criar um diretório      mkdir NomeDiretorio
+trocar diretorio        cd NomeDiretorio
+ng init
+ng serve

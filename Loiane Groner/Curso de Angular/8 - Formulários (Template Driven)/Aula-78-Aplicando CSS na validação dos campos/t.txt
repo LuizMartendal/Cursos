@@ -1,0 +1,4 @@
+     ESTADO                SIM              NÃO  
+Controle visitado       ng-touched      ng-untouched
+   Valor Mudou           ng-dirty       ng-pristine 
+ Controle válido         ng-valid        ng-invalid

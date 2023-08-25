@@ -1,0 +1,8 @@
+<p>Responsável: {{ tarefa.responsável.nome }}</p>
+<p>Responsável: {{ tarefa.responsável != null ? tarefa.responsável.nome : 'Nenhum nome encontrado' }}</p>
+<p>Responsável: {{ tarefa.responsável? }}</p>
+
+tarefa() {
+    desc: 'Descrição da tarefa',
+    responsavel: null
+};

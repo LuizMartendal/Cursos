@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "curso-angular-rique": {
+      "hosting": {
+        "requests-http": [
+          "curso-angular-rique"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "curso-angular-rique"
+  }
+}

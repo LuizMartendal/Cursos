@@ -1,0 +1,5 @@
+O que é um dependência ? Falando de classes: Uma classe1 precisa de uma instância de outra classe para funcionar
+
+não deveríamos instanciar a OutraClasse manualmente 
+
+Se a classeA depende da classeB. Então, instanciamos a classeB e insjetamos na classeA

@@ -1,0 +1,8 @@
+Sugestão de próximos passos:
+	* Testes
+	* Gerenciamento de estado (ngRX)
+	* Organização de aplicação grande
+	* Segurança
+
+https://angular.io/
+https://update.angular.io/

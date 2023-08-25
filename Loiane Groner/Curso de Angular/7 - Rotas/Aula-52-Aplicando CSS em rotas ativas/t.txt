@@ -1,0 +1,2 @@
+O materializeCSS tem uma classe routerLinkActive="active", isso deixa a div com a cor de "selecionado"
+

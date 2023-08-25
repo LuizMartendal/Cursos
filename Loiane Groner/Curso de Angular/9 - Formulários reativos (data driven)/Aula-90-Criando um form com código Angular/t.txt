@@ -1,0 +1,2 @@
+Componentes tem sempre um ciclo de vida.
+Um importe é o ngOnInit que dispara sempre que o componente for inicializado

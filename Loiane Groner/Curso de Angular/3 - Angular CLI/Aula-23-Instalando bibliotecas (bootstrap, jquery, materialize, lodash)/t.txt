@@ -1,0 +1,12 @@
+cd NomeProjeto 
+
+npm install --save bootstrap@next
+
+npm install materialize-css --save 
+npm install angular2-materialize --save 
+
+procurar sempre nas documentações!!!
+
+bootstrap 
+materialize 
+lodash 

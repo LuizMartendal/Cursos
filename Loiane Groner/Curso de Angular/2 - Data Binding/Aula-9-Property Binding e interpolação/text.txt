@@ -1,0 +1,17 @@
+<                                               {   
+T       <-----{{valor}}-----                    C 
+E       <-----[propriedade]="valor"-----        O
+M       -----(evento)="handler"----->           M
+P       <-----[(ngModel)]="propriedade"----->   P
+L                                               O
+A                                               N
+T                                               E
+E                                               N    
+>                                               T
+                                                }
+
+
+Valor do Component para o Template
+Usa-se colchetes <img [scr]="urlImg"/>
+Formato padrão é através de bind-nomePropriedade <img bind-src="urlImg"/>
+Quando não existe uma propriedade no elemento, usa-se [attr.colspan]

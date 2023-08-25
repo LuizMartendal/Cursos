@@ -1,0 +1,6 @@
+Formulários data driven são orientados a dados 
+
+Orientado a template:
+    Formulário é criado e configurado no HTML. Angular deduz um FormGroup a partir do HTML.
+Orientado a dados:
+    Formulário é criado programaticamente e é sincronizado com o DOM/HTML

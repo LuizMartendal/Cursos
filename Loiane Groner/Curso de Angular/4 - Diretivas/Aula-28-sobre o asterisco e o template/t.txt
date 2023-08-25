@@ -1,0 +1,11 @@
+<div *ngIf="mostrarCursos">
+    Lista de cursos aqui 
+</div>
+
+<template [ngIf]="mostrarCursos">
+    <div>Lista de cursos aqui</div>
+</template>
+
+<div template="ngIf mostrarCursos">
+    Lista de cursos aqui 
+</div>

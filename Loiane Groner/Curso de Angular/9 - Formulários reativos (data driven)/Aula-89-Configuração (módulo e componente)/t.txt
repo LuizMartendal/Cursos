@@ -1,0 +1,3 @@
+importar o ReactiveFormsModule no appModule 
+
+criar uma váriavel FormGroup no component

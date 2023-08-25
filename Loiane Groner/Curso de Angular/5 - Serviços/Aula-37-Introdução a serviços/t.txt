@@ -1,0 +1,6 @@
+Service: Forcenece lógica de negócio e evita código duplicado
+
+Component: Somente resposável por pegar e mostrar os dados na tela.
+    Apenas interação da tela com o usuário. Qualquer outra lógica de negócio deve ser feita pelo Service
+
+Além de classes de regra de negócio, podemos usar Service para classes utilitárias, obter tradução ou formatar algum dado...

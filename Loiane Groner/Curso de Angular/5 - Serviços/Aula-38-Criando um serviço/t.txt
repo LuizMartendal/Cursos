@@ -1,0 +1,20 @@
+ng g s nomeDoServico 
+
+export class CursosService {
+    getCursos(){
+        return ["Java", "Python", "Angular"];
+    }
+}
+
+import [ CursoService ] from "./curso-service.ts";
+
+cursos[]: String = []
+cursosService: CursosService;
+
+constructor CursosComponent(){
+
+}
+
+ngOnInit(){
+    cursos = cursosService.getCursos();
+}

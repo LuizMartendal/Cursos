@@ -1,0 +1,4 @@
+instalar docker
+instalar plugin docker (oficial microsoft)
+
+ctrl+shift+p  =>  docker  =>  Add Docker Files to Workspace

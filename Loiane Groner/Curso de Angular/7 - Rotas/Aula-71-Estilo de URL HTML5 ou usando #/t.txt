@@ -1,0 +1,1 @@
+As vezes o backend tem dificuldade de entender uma url, então, usamos hash para identificar a chamada

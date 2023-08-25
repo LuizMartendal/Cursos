@@ -1,0 +1,2 @@
+Resolve: responsável por carregar dados antes da rota ser ativada.
+

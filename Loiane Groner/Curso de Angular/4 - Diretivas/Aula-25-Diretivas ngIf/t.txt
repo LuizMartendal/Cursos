@@ -1,0 +1,32 @@
+[hidden] recomendado para árvore de elementos pequenas 
+    é menos custoso usar [hidden] caso o custo de criar a árvore de elementos seja grande 
+
+*ngif recomendad para árvore de elementos grandes 
+
+-------------------------
+
+<div *ngif="cursos.lenght > 0">
+    Mostrar cursos
+</div>
+
+<div *ngif="cursos.lenght == 0">
+    Não há cursos
+</div>
+
+---------------------------
+
+mostrar: boolean = true;
+
+onClickMostrar() {
+    this.mostrar = !this.mostrar;
+}
+
+<button (click)="onClickMostrar">Mostrar ou esconder</button>
+
+<div [hidden]="!mostrar">
+    Tem cursos
+</div>
+
+<div [hiddem]="mostrar">
+    Não há cursos
+</div>

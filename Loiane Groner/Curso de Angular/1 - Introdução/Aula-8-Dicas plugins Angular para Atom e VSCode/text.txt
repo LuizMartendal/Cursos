@@ -1,0 +1,11 @@
+No Atom:
+    angular-2-typeScript-snippets
+    atom-typescript
+    file-icons
+    linter
+
+No VSCode:
+    Angular2, 4 and upcoming
+    Angular v2 typeScript Snippets
+    Atom One Dark Theme
+    Auto import

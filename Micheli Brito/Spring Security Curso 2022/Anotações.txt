@@ -1,0 +1,21 @@
+Spring Security:
+
+Temas abordados:
+	- principais vulnerabilidades
+	- fluxo basic  authentication
+	- configurações default
+	- personalizar autenticação
+	- autenticação em memória
+	- autenticação base de dados
+	- controle de acesso
+	- mostrar atualizações do Spring Security
+	- componentes e filter chain
+
+O que é ?
+	Projeto do ecossistema Spring que conta com uma poderosa estrutura personalizável para implementação de autenticação e autorização em aplicações Java Spring
+
+Algumas vulnerabilidades de segurança comuns em aplicações web:
+	* Vulnerabilidade na Autenticação e Autorização
+	* Cross Site Request Forgery - CSRF
+	* Usando Dependências com Vulnerabilidades Conhecidas
+	* etc.

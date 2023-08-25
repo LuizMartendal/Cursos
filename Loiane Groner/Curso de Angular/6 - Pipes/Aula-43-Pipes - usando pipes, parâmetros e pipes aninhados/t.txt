@@ -1,0 +1,15 @@
+Um Pipe transforma um valor. E nós podemos mostrar esse valor através de um template.
+Formatar data, números, decimais, moeda...
+Olhar na documentação do angular quando alguma dúvida aparecer.
+
+| tradução: Pipe 
+
+usando 
+
+Título do livro: {{ livro.titulo | upperCase }};
+Estrelas: {{ livro.estrelas | numero: '1.1-2' }};
+Páginas: {{ livro.numeroPaginas | number }};
+Preço: {{ livro.preco | currency:'BRL':true }};
+Data Lançamento: {{ livro.datalancamento | date:'dd-MM-yyyy' }};
+
+

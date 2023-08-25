@@ -1,0 +1,5 @@
+ng lint ---> escanear erros no código
+
+ng test ---> teste unitário com o Jasmine executando todos os specs.
+
+ng e2e teste de integração 

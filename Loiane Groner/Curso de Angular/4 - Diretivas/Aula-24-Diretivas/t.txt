@@ -1,0 +1,25 @@
+Diretivas são instruções 
+
+<ul>
+    <li *ngFor="let curso of cursos">
+        {{ curso }}
+    </li>
+</ul>
+
+
+Itere todos os cursos, e a cada iteração, atribua o valor do elemento atual à uma variável curso. Replique também o elemento <li></li> com valor da variável curso a cada iteração 
+
+template:
+    <cursos-lista></cursos-lista>
+
+"Crie um componente do Tipo (classe) especificado e renderize a view (template) desse componente nesse lugar"
+
+Existem 3 tipos de diretivas: 
+
+Diretivas estruturais: Interagem com a view e modificam a estrutura do DOM e/ou código HTML 
+*ngFor 
+*ngIf
+
+Direitivas de atributos: Interagem com o elemento em que foram aplicadas 
+ng-class
+ng-style

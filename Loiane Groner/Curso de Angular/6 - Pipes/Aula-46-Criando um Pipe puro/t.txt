@@ -1,0 +1,1 @@
+Pipe puro não olha as modificações feitas no objeto

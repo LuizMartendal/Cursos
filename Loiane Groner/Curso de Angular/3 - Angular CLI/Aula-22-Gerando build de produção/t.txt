@@ -1,0 +1,10 @@
+cd NomeProjeto 
+ng build --target=development --environment=dev 
+ng build --dev --e=dev 
+ng build --dev 
+ng build
+
+útil para integrar o código do Angular 2 com o projeto de backend 
+código que dá para debugar 
+arquivo main.bundle.js contém todo código do projeto + CSS + HTML (ledível)
+

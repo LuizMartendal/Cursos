@@ -1,0 +1,4 @@
+Para deixar a aplicação compativel com o IE:
+	* na pasta 'browserlist' devemos descomentar aonde está escrito 'IE 9-11'
+	* dentro da pasta src tem um arquivo polyfills, descomentar partes necessárias
+	*
